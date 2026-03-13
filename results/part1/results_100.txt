@@ -1,0 +1,2 @@
+Record: 100
+SNR: -7.57 dB
